@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Foxtrot0055
-- 👀 I’m interested in 3D-Printing, Cad, PCB Design and Programming
+- 👀 I’m interested in Python, 3D-Printing, Cad, PCB Design and Programming in general
 - 🌱 I’m currently learning ^
-- 💞️ I’m looking to collaborate on
-- 📫 How to reach me Discord: foxtrot6100
+- 📫 How to reach me on Discord: foxtrot6100
 
 <!---
 Foxtrot0055/Foxtrot0055 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
