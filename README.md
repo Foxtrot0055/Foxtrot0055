@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Foxtrot0055
-- 👀 I’m interested in Python, 3D-Printing, Cad, PCB Design and Programming in general
+- 👀 I’m interested in Python, Rust, 3D-Printing, Cad, PCB Design and Programming in general
 - 🌱 I’m currently learning ^
 - 📫 How to reach me on Discord: foxtrot6100
 
