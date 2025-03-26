@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Foxtrot0055
 - 👀 I’m interested in Python, C, OsDev, 3D-Printing, Cad, PCB Design and Programming in general
-- 🌱 I’m currently learning ^
+- 🌱 I’m currently learning all of the things above
 - 📫 How to reach me on Discord: foxtrot6100
 
 <!---
